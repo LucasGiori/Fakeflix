@@ -1,6 +1,6 @@
 # Fakeflix - Construindo Aplicações Enterprise
 
-![Fakeflix](docs/fakeflix.png)
+![Fakeflix](./docs/fakeflix.png)
 
 Esse é o repositório base do curso **Construindo Aplicações Enterprise (Tech Leads Club 💎)**, ele é usado para experimentos e referência do código que sera utilizado no curso.
 
