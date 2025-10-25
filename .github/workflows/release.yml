@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Release Please
-        uses: googleapis/release-please-action
+        uses: googleapis/release-please-action@v4
         with:
           release-type: simple
           token: ${{ secrets.MY_RELEASE_PLEASE_TOKEN }}
