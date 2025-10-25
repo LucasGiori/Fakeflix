@@ -16,6 +16,7 @@ jobs:
         uses: google-github-actions/release-please-action@v4
         with:
           release-type: simple
+          token: ${{ secrets.MY_RELEASE_PLEASE_TOKEN }}
           changelog-types: |
             [
               {"type":"feat","section":"Features"},
